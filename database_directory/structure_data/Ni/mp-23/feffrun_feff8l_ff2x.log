@@ -1,0 +1,7 @@
+
+======== running Feff module feff8l_ff2x ========
+ Calculating chi...
+ Error opening file, list.dat in module ff2chi
+ Fatal error
+CHOPEN
+STOP  

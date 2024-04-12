@@ -1,0 +1,12 @@
+
+======== running Feff module feff8l_rdinp ========
+ Feff8L (EXAFS)      release  0.1
+ comment: None given
+ Source:
+ Structure Summary:  Eu1 Ti1 O3
+ Reduced formula:  EuTiO3
+ space group: (Pm-3m), space number:  (221)
+ abc:  3.903878   3.903887   3.903878
+ angles: 90.000000  90.000000  90.000000
+ sites: 5
+ mp-22246

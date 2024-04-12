@@ -1,0 +1,52 @@
+
+======== running Feff module feff8l_ff2x ========
+ Calculating chi...
+ feffdt, feff.pad to feff.dat conversion: Feff8L (EXAFS)      release  0.1
+ comment: None given                            Feff8L (EXAFS)       0.1
+ Source:
+ Structure Summary:  Pt2
+ Reduced formula:  Pt
+ space group: (P6_3/mmc), space number:  (194)
+ abc:  2.760666   2.760665   4.792134
+ angles: 90.000000  90.000000 120.000009
+ sites: 2
+ mp-2647022
+ POT  Non-SCF, core-hole, AFOLP (folp(0)= 1.150)
+ Abs   Z=78 Rmt= 1.481 Rnm= 1.520 L3 shell
+ Pot 1 Z=78 Rmt= 1.495 Rnm= 1.537
+ Gam_ch=5.171E+00 H-L exch
+ Mu=-1.529E-01 kf=1.999E+00 Vint=-1.538E+01 Rs_int= 1.814
+ PATH  Rmax= 6.000,  Keep_limit= 0.00, Heap_limit 0.00  Pwcrit= 2.50%
+      28 paths to process
+    path     filename
+       1     feff0001.dat
+       2     feff0002.dat
+       3     feff0003.dat
+       4     feff0004.dat
+       5     feff0005.dat
+       6     feff0006.dat
+       7     feff0007.dat
+       8     feff0008.dat
+       9     feff0009.dat
+      10     feff0010.dat
+      11     feff0011.dat
+      12     feff0012.dat
+      13     feff0013.dat
+      14     feff0014.dat
+      15     feff0015.dat
+      16     feff0016.dat
+      17     feff0017.dat
+      18     feff0018.dat
+      19     feff0019.dat
+      20     feff0020.dat
+      21     feff0021.dat
+      22     feff0022.dat
+      23     feff0023.dat
+      24     feff0025.dat
+      25     feff0026.dat
+      26     feff0027.dat
+      27     feff0028.dat
+      28     feff0029.dat
+    Use all paths with cw amplitude ratio   4.00%
+    S02  1.000  Global sig2  0.00000
+ Done with module 6: DW + final sum over paths.

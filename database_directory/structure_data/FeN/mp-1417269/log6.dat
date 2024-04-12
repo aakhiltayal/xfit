@@ -1,0 +1,112 @@
+ Calculating chi...
+ feffdt, feff.pad to feff.dat conversion: Feff8L (EXAFS)      release  0.1
+ comment: None given                            Feff8L (EXAFS)       0.1
+ Source:
+ Structure Summary:  Fe2 N2
+ Reduced formula:  FeN
+ space group: (P4_2/mmc), space number:  (131)
+ abc:  3.438948   3.438948   4.764827
+ angles: 90.000000  90.000000  90.000000
+ sites: 4
+ mp-1417269
+ POT  Non-SCF, core-hole, AFOLP (folp(0)= 1.150)
+ Abs   Z=26 Rmt= 1.138 Rnm= 1.339 K  shell
+ Pot 1 Z=26 Rmt= 1.141 Rnm= 1.347
+ Pot 2 Z= 7 Rmt= 0.888 Rnm= 1.094
+ Gam_ch=1.309E+00 H-L exch
+ Mu=-9.454E-01 kf=2.278E+00 Vint=-2.072E+01 Rs_int= 1.592
+ PATH  Rmax= 6.000,  Keep_limit= 0.00, Heap_limit 0.00  Pwcrit= 2.50%
+      89 paths to process
+    path     filename
+       1     feff0001.dat
+       2     feff0002.dat
+       3     feff0003.dat
+       4     feff0004.dat
+       5     feff0005.dat
+       6     feff0006.dat
+       7     feff0007.dat
+       8     feff0008.dat
+       9     feff0009.dat
+      10     feff0010.dat
+      11     feff0011.dat
+      12     feff0012.dat
+      13     feff0013.dat
+      14     feff0014.dat
+      15     feff0015.dat
+      16     feff0016.dat
+      17     feff0017.dat
+      18     feff0018.dat
+      19     feff0019.dat
+      20     feff0020.dat
+      21     feff0023.dat
+      22     feff0024.dat
+      23     feff0025.dat
+      24     feff0026.dat
+      25     feff0027.dat
+      26     feff0028.dat
+      27     feff0029.dat
+      28     feff0030.dat
+      29     feff0031.dat
+      30     feff0032.dat
+      31     feff0033.dat
+      32     feff0034.dat
+      33     feff0035.dat
+      34     feff0036.dat
+      35     feff0037.dat
+      36     feff0038.dat
+      37     feff0039.dat
+      38     feff0040.dat
+      39     feff0041.dat
+      40     feff0042.dat
+      41     feff0043.dat
+      42     feff0044.dat
+      43     feff0045.dat
+      44     feff0047.dat
+      45     feff0048.dat
+      46     feff0049.dat
+      47     feff0050.dat
+      48     feff0051.dat
+      49     feff0052.dat
+      50     feff0054.dat
+      51     feff0055.dat
+      52     feff0056.dat
+      53     feff0058.dat
+      54     feff0059.dat
+      55     feff0060.dat
+      56     feff0061.dat
+      57     feff0062.dat
+      58     feff0063.dat
+      59     feff0064.dat
+      60     feff0065.dat
+      61     feff0066.dat
+      62     feff0067.dat
+      63     feff0068.dat
+      64     feff0069.dat
+      65     feff0070.dat
+      66     feff0071.dat
+      67     feff0072.dat
+      68     feff0073.dat
+      69     feff0074.dat
+      70     feff0076.dat
+      71     feff0080.dat
+      72     feff0081.dat
+      73     feff0082.dat
+      74     feff0083.dat
+      75     feff0084.dat
+      76     feff0085.dat
+      77     feff0086.dat
+      78     feff0087.dat
+      79     feff0088.dat
+      80     feff0089.dat
+      81     feff0091.dat
+      82     feff0092.dat
+      83     feff0093.dat
+      84     feff0094.dat
+      85     feff0097.dat
+      86     feff0098.dat
+      87     feff0099.dat
+      88     feff0100.dat
+      89     feff0101.dat
+    Use all paths with cw amplitude ratio   4.00%
+    S02  1.000  Global sig2  0.00000
+ Done with module 6: DW + final sum over paths.

@@ -1,0 +1,28 @@
+ comment: None given                            Feff8L (EXAFS)       0.1
+ Source:
+ Structure Summary:  U1 O2
+ Reduced formula:  UO2
+ space group: (Fm-3m), space number:  (225)
+ abc:  3.856567   3.856567   3.856567
+ angles: 60.000000  60.000000  60.000000
+ sites: 3
+ mp-1597
+ POT  Non-SCF, core-hole, AFOLP (folp(0)= 1.150)
+ Abs   Z=92 Rmt= 1.626 Rnm= 1.706 L3 shell
+ Pot 1 Z= 8 Rmt= 1.042 Rnm= 1.093
+ Gam_ch=8.104E+00 H-L exch
+ Mu=-4.652E+00 kf=2.032E+00 Vint=-2.038E+01 Rs_int= 1.785
+ PATH  Rmax= 6.000,  Keep_limit= 0.00, Heap_limit 0.00  Pwcrit= 2.50%
+ -----------------------------------------------------------------------
+    file        sig2   amp ratio    deg    nlegs  r effective
+ feff0001.dat 0.00000   100.000     8.000     2   2.3617
+ feff0002.dat 0.00000     7.658    24.000     3   3.7252
+ feff0003.dat 0.00000     8.061    24.000     3   4.2899
+ feff0004.dat 0.00000    34.730    24.000     2   4.5222
+ feff0005.dat 0.00000     5.911     8.000     3   4.7233
+ feff0006.dat 0.00000    12.510     8.000     4   4.7233
+ feff0007.dat 0.00000     5.604     8.000     4   4.7233
+ feff0008.dat 0.00000    12.560    48.000     3   4.8054
+ feff0009.dat 0.00000     3.636    24.000     4   5.0887
+ feff0010.dat 0.00000     4.558    96.000     3   5.3702
+ feff0011.dat 0.00000    11.360    24.000     2   5.9434

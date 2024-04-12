@@ -1,0 +1,15 @@
+
+======== running Feff module feff8l_xsph ========
+ Calculating cross-section and phases...
+At line 91 of file rdpot.f (unit = 3)
+Fortran runtime error: Cannot open file 'pot.pad': No such file or directory
+
+Error termination. Backtrace:
+#0  0x116263ebd
+#1  0x116264b75
+#2  0x11626576b
+#3  0x11648f9c8
+#4  0x11648fcac
+#5  0x102982054
+#6  0x10292d5ba
+#7  0x1029b337e

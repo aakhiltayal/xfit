@@ -1,0 +1,20 @@
+
+======== running Feff module feff8l_pathfinder ========
+ Preparing plane wave scattering amplitudes...
+ Searching for paths...
+   WARNING:  rmax > distance to most distant atom.
+             Some paths may be missing.
+             rmax, ratx   6.00000E+00  0.00000E+00
+    Rmax  6.0000  keep and heap limits   0.0000000   0.0000000
+    Preparing neighbor table
+    nfound  heapsize  maxheap  maxscatt   reff
+      1000      565      597      5      5.2841
+      2000      723      726      5      5.7228
+      3000      671      878      6      5.8558
+      4000      479      878      6      5.9188
+      5000      222      878      6      5.9986
+    Paths found     5546   (maxheap, maxscatt     878   6)
+ Eliminating path degeneracies...
+    Plane wave chi amplitude filter   2.50%
+    Unique paths     54,  total paths    2528
+ Done with module 4: pathfinder.
